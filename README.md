@@ -4,7 +4,7 @@ Cleaning-and-Getting-Data
 Assignment for the Course of Cleaning and Getting data.
 
 
- ... STEP 1: merges the training and the test sets to create one data set ...
+... STEP 1: merges the training and the test sets to create one data set ...
  
  
  My FIRST SCRIPT does the following things:  
@@ -17,7 +17,7 @@ Assignment for the Course of Cleaning and Getting data.
 
 
 
- ... STEP 2: extracts only the measurements on the mean and standard deviation for each measurements ...
+... STEP 2: extracts only the measurements on the mean and standard deviation for each measurements ...
  
  
  My SECOND SCRIPT does the following things:
