@@ -4,7 +4,7 @@ Cleaning-and-Getting-Data
 Assignment for the Course of Cleaning and Getting data.
 
 
-... STEP 1: merges the training and the test sets to create one data set ...
+... <strong>STEP 1:</strong> merges the training and the test sets to create one data set ...
  
  
  My FIRST SCRIPT does the following things:  
@@ -17,7 +17,7 @@ Assignment for the Course of Cleaning and Getting data.
 
 
 
-... STEP 2: extracts only the measurements on the mean and standard deviation for each measurements ...
+... <strong>STEP 2:</strong> extracts only the measurements on the mean and standard deviation for each measurements ...
  
  
  My SECOND SCRIPT does the following things:
@@ -36,7 +36,7 @@ corresponding to mean() and std() which were identified in the step 2)
 
 
 
-... STEP 3: uses descriptive activity names to name the activities in the data set ...
+... <strong>STEP 3:</strong> uses descriptive activity names to name the activities in the data set ...
 
 
  My THIRD SCRIPT does the following things:
@@ -46,7 +46,7 @@ corresponding to mean() and std() which were identified in the step 2)
 
 
 
-... STEP 4: appropriately labels the data set with descriptive variable names ...
+... <strong>STEP 4:</strong> appropriately labels the data set with descriptive variable names ...
 
  
  My FOURTH SCRIPT does the following things:
@@ -61,7 +61,7 @@ data.total.1
 
 
 
-... STEP 5: creates a second, independent tidy data set with the average of each variable for each activity and each
+... <strong>STEP 5:</strong> creates a second, independent tidy data set with the average of each variable for each activity and each
             subject ...
             
  
