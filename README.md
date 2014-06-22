@@ -31,7 +31,7 @@ corresponding to mean() and std() which were identified in the step 2)
 * 4) It extracts the means and it puts them into the data set called data.m.tot
 * 5) It extracts the standard deviations and it puts them into the data set called data.std.tot
 * 6) It creates a data set (data2) with only the first two columns
-* 7) It creates a new large data set called data.total.1 by joining data2, data.m.tot and data.std.tot
+* 7) It creates a new large data set called data.total.1 by joining data2, data.m.tot and data.std.tot. This data set consists  of 2 + 66 = 68 columns and 10299 rows.
 * 8) It oders data.total.1 by ID and activity
 
 
