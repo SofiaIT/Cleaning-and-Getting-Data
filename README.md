@@ -10,7 +10,7 @@ Assignment for the Course of Cleaning and Getting data.
  My FIRST SCRIPT does the following things:  
 
 
-1) It opens the 'test' data sets and it merges them together to create the data set called data.test1
+*1) It opens the 'test' data sets and it merges them together to create the data set called data.test1
 2) It opens the 'training' data sets and it merges them together to create the data set called data.train1
 3) It merges these two new data sets and it creates an unique large data set called data.total which has 563 columns
 and 10299 rows
